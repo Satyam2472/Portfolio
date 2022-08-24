@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(207, 252, 252);
+    margin: 0;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1{
+    color: #11999E;
+    margin: 50 auto 0 auto;
+    font-size: 562.5%;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+    font-size: 200%;
+}
+h3{
+    color: #66BFBF;
+    font-size: 160%;
+}
+p{
+    font-size: 17px;
+}
+
+.profile-img{
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+.coder{
+    border-radius: 100%;
+    width: 15%;
+}
+
+.mechanical{
+    border-radius: 100%;
+    width: 20%;
+}
+
+.top-cloud{
+    position: relative;
+    left: 200px;
+}
+
+.bottom-cloud{
+    position: absolute;
+
+}
+.skill-row{
+    margin: 100 auto 100 auto;
+}
